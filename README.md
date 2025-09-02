@@ -1,5 +1,3 @@
-# 💫 About Me:
-# 👋 Olá, eu sou o Eduardo Erthal  <br><br>🎓 Estudante de **Sistemas de Informação** (4º período) na **PUCPR**  <br>💻 Apaixonado por **tecnologia, inovação e desenvolvimento de software**  <br>🚀 Buscando minha primeira oportunidade profissional na área de tecnologia  <br><br>---<br><br>## 🔧 Habilidades Técnicas  <br>- **Linguagens de Programação:** Python, Java  <br>- **Banco de Dados:** SQL  <br>- **Desenvolvimento Web:** HTML, CSS  <br>- **Controle de Versão:** Git/GitHub  <br>- **Sistemas Operacionais:** Windows  <br>
 
 
 # 💻 Tech Stack:
